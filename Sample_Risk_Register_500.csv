@@ -1,0 +1,501 @@
+ID,Risk/Opportunity,Risk/Opportunity Description,Relevant Issue / Interested Party,Risk/Opportunity Owner,Likelihood,Severity / Impact,Risk/Opportunity Level,Risk mitigation/ opportunity description.,Status Closed
+1,Risk,Loss of key personnel,Regulatory,Ethan,3,5,High,Mitigation plan 1,Open
+2,Opportunity,Loss of key personnel,Supply Chain,Diana,2,2,Medium,Mitigation plan 2,In Progress
+3,Opportunity,Data loss due to hardware failure,Customer Satisfaction,Alice,4,1,High,Mitigation plan 3,Open
+4,Opportunity,Supplier failure risk,Environmental,Charlie,1,4,High,Mitigation plan 4,Open
+5,Risk,Positive impact of automation,IT Security,Ethan,3,2,Low,Mitigation plan 5,Closed
+6,Opportunity,Compliance with new regulation,Customer Satisfaction,Charlie,3,5,High,Mitigation plan 6,Open
+7,Risk,Supplier failure risk,Compliance,Diana,5,4,High,Mitigation plan 7,In Progress
+8,Risk,Loss of key personnel,Customer Satisfaction,Alice,1,5,Low,Mitigation plan 8,In Progress
+9,Risk,New market entry opportunity,Compliance,Diana,4,4,High,Mitigation plan 9,In Progress
+10,Risk,New market entry opportunity,Supply Chain,Diana,3,4,High,Mitigation plan 10,In Progress
+11,Opportunity,Data loss due to hardware failure,Environmental,Ethan,5,1,Medium,Mitigation plan 11,Open
+12,Risk,Supplier failure risk,IT Security,Alice,1,3,Medium,Mitigation plan 12,Closed
+13,Risk,Supplier failure risk,Compliance,Ethan,4,5,Medium,Mitigation plan 13,In Progress
+14,Risk,Positive impact of automation,Supply Chain,Diana,4,2,Medium,Mitigation plan 14,In Progress
+15,Opportunity,New market entry opportunity,Supply Chain,Diana,5,5,Low,Mitigation plan 15,Closed
+16,Opportunity,Positive impact of automation,Customer Satisfaction,Charlie,4,1,Medium,Mitigation plan 16,In Progress
+17,Opportunity,Supplier failure risk,IT Security,Charlie,3,3,Medium,Mitigation plan 17,In Progress
+18,Opportunity,Positive impact of automation,Supply Chain,Ethan,1,5,Low,Mitigation plan 18,Closed
+19,Risk,Positive impact of automation,IT Security,Charlie,5,4,High,Mitigation plan 19,Open
+20,Risk,Positive impact of automation,Supply Chain,Diana,2,5,Medium,Mitigation plan 20,In Progress
+21,Risk,Compliance with new regulation,Compliance,Ethan,5,1,Low,Mitigation plan 21,Open
+22,Risk,Supplier failure risk,Compliance,Bob,2,5,Medium,Mitigation plan 22,Closed
+23,Opportunity,Loss of key personnel,Environmental,Ethan,1,2,High,Mitigation plan 23,In Progress
+24,Opportunity,Data loss due to hardware failure,IT Security,Charlie,1,2,Low,Mitigation plan 24,Open
+25,Risk,Loss of key personnel,Supply Chain,Diana,2,4,Low,Mitigation plan 25,In Progress
+26,Risk,Loss of key personnel,Customer Satisfaction,Ethan,4,5,High,Mitigation plan 26,Open
+27,Risk,Supplier failure risk,Customer Satisfaction,Diana,5,2,Medium,Mitigation plan 27,Closed
+28,Risk,Loss of key personnel,IT Security,Charlie,3,5,High,Mitigation plan 28,Open
+29,Risk,Supplier failure risk,Customer Satisfaction,Alice,1,3,Low,Mitigation plan 29,Open
+30,Risk,Compliance with new regulation,Regulatory,Diana,3,3,Medium,Mitigation plan 30,Open
+31,Risk,New market entry opportunity,Compliance,Charlie,1,2,High,Mitigation plan 31,Open
+32,Opportunity,Positive impact of automation,IT Security,Fiona,1,5,High,Mitigation plan 32,In Progress
+33,Risk,Data loss due to hardware failure,Supply Chain,Alice,2,2,High,Mitigation plan 33,Closed
+34,Opportunity,Cybersecurity breach,Supply Chain,Ethan,1,2,Low,Mitigation plan 34,Open
+35,Risk,Cybersecurity breach,Regulatory,Ethan,5,3,Medium,Mitigation plan 35,In Progress
+36,Risk,Cybersecurity breach,Regulatory,Ethan,4,1,Low,Mitigation plan 36,Open
+37,Risk,Supplier failure risk,Supply Chain,Ethan,3,3,High,Mitigation plan 37,Open
+38,Risk,Loss of key personnel,IT Security,Charlie,3,3,Medium,Mitigation plan 38,Closed
+39,Opportunity,Compliance with new regulation,Customer Satisfaction,Ethan,5,4,Low,Mitigation plan 39,In Progress
+40,Opportunity,Supplier failure risk,Compliance,Diana,5,4,Medium,Mitigation plan 40,Closed
+41,Opportunity,Supplier failure risk,Compliance,Ethan,4,2,Medium,Mitigation plan 41,Open
+42,Risk,Compliance with new regulation,IT Security,Charlie,1,1,Medium,Mitigation plan 42,Open
+43,Risk,New market entry opportunity,Regulatory,Fiona,3,2,Low,Mitigation plan 43,Closed
+44,Opportunity,New market entry opportunity,IT Security,Alice,4,4,High,Mitigation plan 44,In Progress
+45,Risk,Positive impact of automation,IT Security,Ethan,1,2,Low,Mitigation plan 45,Open
+46,Risk,Positive impact of automation,Regulatory,Charlie,3,2,High,Mitigation plan 46,Closed
+47,Opportunity,Supplier failure risk,Regulatory,Charlie,2,2,Medium,Mitigation plan 47,Closed
+48,Risk,Data loss due to hardware failure,Compliance,Charlie,5,5,Medium,Mitigation plan 48,In Progress
+49,Opportunity,New market entry opportunity,Customer Satisfaction,Diana,5,5,Medium,Mitigation plan 49,Closed
+50,Risk,New market entry opportunity,Customer Satisfaction,Bob,4,4,Medium,Mitigation plan 50,Closed
+51,Risk,Loss of key personnel,Customer Satisfaction,Bob,2,2,Low,Mitigation plan 51,Open
+52,Risk,New market entry opportunity,Regulatory,Alice,4,5,High,Mitigation plan 52,Closed
+53,Opportunity,Data loss due to hardware failure,Customer Satisfaction,Ethan,3,5,Medium,Mitigation plan 53,Closed
+54,Opportunity,Loss of key personnel,Regulatory,Alice,1,3,High,Mitigation plan 54,Open
+55,Opportunity,Loss of key personnel,Regulatory,Diana,2,1,Medium,Mitigation plan 55,Closed
+56,Opportunity,Positive impact of automation,Supply Chain,Alice,3,4,High,Mitigation plan 56,Closed
+57,Risk,Compliance with new regulation,Supply Chain,Bob,1,4,Low,Mitigation plan 57,Open
+58,Risk,Compliance with new regulation,Customer Satisfaction,Charlie,2,5,Low,Mitigation plan 58,Closed
+59,Opportunity,Loss of key personnel,Compliance,Ethan,1,4,High,Mitigation plan 59,In Progress
+60,Risk,Compliance with new regulation,Environmental,Diana,2,2,Low,Mitigation plan 60,In Progress
+61,Opportunity,Cybersecurity breach,Compliance,Alice,2,1,Low,Mitigation plan 61,Open
+62,Risk,Data loss due to hardware failure,Environmental,Fiona,4,5,Medium,Mitigation plan 62,In Progress
+63,Risk,Supplier failure risk,Compliance,Ethan,3,3,Medium,Mitigation plan 63,Closed
+64,Risk,Positive impact of automation,Customer Satisfaction,Alice,1,5,High,Mitigation plan 64,In Progress
+65,Opportunity,Cybersecurity breach,Supply Chain,Alice,1,5,Low,Mitigation plan 65,Open
+66,Risk,Supplier failure risk,Customer Satisfaction,Diana,3,3,High,Mitigation plan 66,Closed
+67,Opportunity,Data loss due to hardware failure,IT Security,Ethan,4,5,High,Mitigation plan 67,Open
+68,Risk,Positive impact of automation,Compliance,Ethan,2,1,Low,Mitigation plan 68,In Progress
+69,Risk,Loss of key personnel,Customer Satisfaction,Fiona,3,5,Low,Mitigation plan 69,In Progress
+70,Opportunity,Supplier failure risk,Environmental,Bob,1,4,Medium,Mitigation plan 70,Closed
+71,Risk,Cybersecurity breach,Customer Satisfaction,Diana,2,5,Medium,Mitigation plan 71,Closed
+72,Opportunity,Positive impact of automation,Compliance,Alice,4,2,Low,Mitigation plan 72,Closed
+73,Risk,Positive impact of automation,Supply Chain,Charlie,1,4,High,Mitigation plan 73,Open
+74,Risk,New market entry opportunity,Supply Chain,Diana,5,5,Medium,Mitigation plan 74,Closed
+75,Risk,Positive impact of automation,Compliance,Ethan,2,2,High,Mitigation plan 75,Open
+76,Risk,Supplier failure risk,Compliance,Charlie,1,4,Medium,Mitigation plan 76,In Progress
+77,Risk,Data loss due to hardware failure,Supply Chain,Alice,4,3,Medium,Mitigation plan 77,Open
+78,Opportunity,New market entry opportunity,Customer Satisfaction,Diana,4,3,Medium,Mitigation plan 78,Open
+79,Opportunity,New market entry opportunity,Environmental,Charlie,3,2,Medium,Mitigation plan 79,In Progress
+80,Opportunity,Compliance with new regulation,Environmental,Alice,5,4,Medium,Mitigation plan 80,In Progress
+81,Opportunity,Positive impact of automation,Supply Chain,Fiona,5,5,Low,Mitigation plan 81,In Progress
+82,Risk,Positive impact of automation,Supply Chain,Fiona,5,2,High,Mitigation plan 82,Closed
+83,Risk,New market entry opportunity,Environmental,Ethan,4,5,Low,Mitigation plan 83,Open
+84,Risk,Positive impact of automation,Environmental,Alice,4,3,High,Mitigation plan 84,In Progress
+85,Opportunity,Positive impact of automation,Customer Satisfaction,Alice,5,2,Low,Mitigation plan 85,Closed
+86,Opportunity,New market entry opportunity,Customer Satisfaction,Charlie,2,2,High,Mitigation plan 86,Open
+87,Risk,Cybersecurity breach,Regulatory,Diana,3,5,High,Mitigation plan 87,In Progress
+88,Opportunity,Loss of key personnel,Supply Chain,Alice,4,1,Medium,Mitigation plan 88,Closed
+89,Opportunity,Compliance with new regulation,Customer Satisfaction,Alice,4,1,Medium,Mitigation plan 89,Closed
+90,Opportunity,Supplier failure risk,Environmental,Alice,1,2,Medium,Mitigation plan 90,In Progress
+91,Opportunity,Loss of key personnel,Supply Chain,Fiona,4,1,Medium,Mitigation plan 91,Closed
+92,Risk,Supplier failure risk,Environmental,Diana,2,1,High,Mitigation plan 92,In Progress
+93,Opportunity,Loss of key personnel,Regulatory,Diana,1,1,High,Mitigation plan 93,Closed
+94,Risk,Cybersecurity breach,Regulatory,Ethan,2,5,High,Mitigation plan 94,In Progress
+95,Risk,New market entry opportunity,IT Security,Bob,4,2,Medium,Mitigation plan 95,In Progress
+96,Opportunity,New market entry opportunity,Regulatory,Diana,5,5,Low,Mitigation plan 96,Closed
+97,Risk,Data loss due to hardware failure,Customer Satisfaction,Ethan,5,4,Medium,Mitigation plan 97,Closed
+98,Opportunity,Loss of key personnel,Compliance,Alice,5,3,Medium,Mitigation plan 98,Closed
+99,Opportunity,Loss of key personnel,Environmental,Diana,4,1,Medium,Mitigation plan 99,Open
+100,Opportunity,Loss of key personnel,Supply Chain,Ethan,1,2,Medium,Mitigation plan 100,Closed
+101,Opportunity,New market entry opportunity,Environmental,Charlie,1,4,Low,Mitigation plan 101,Closed
+102,Opportunity,Positive impact of automation,Regulatory,Charlie,1,3,Medium,Mitigation plan 102,Closed
+103,Opportunity,Loss of key personnel,Environmental,Charlie,5,5,High,Mitigation plan 103,Closed
+104,Opportunity,Supplier failure risk,Regulatory,Charlie,1,1,High,Mitigation plan 104,Closed
+105,Risk,Compliance with new regulation,Supply Chain,Alice,1,3,Low,Mitigation plan 105,Open
+106,Opportunity,Loss of key personnel,Compliance,Bob,5,4,High,Mitigation plan 106,In Progress
+107,Risk,Loss of key personnel,IT Security,Alice,1,1,Medium,Mitigation plan 107,In Progress
+108,Risk,Data loss due to hardware failure,IT Security,Ethan,5,3,Low,Mitigation plan 108,In Progress
+109,Risk,Supplier failure risk,Regulatory,Charlie,2,2,Low,Mitigation plan 109,Closed
+110,Risk,Positive impact of automation,Customer Satisfaction,Ethan,2,3,Low,Mitigation plan 110,Closed
+111,Opportunity,Data loss due to hardware failure,Customer Satisfaction,Bob,1,5,Low,Mitigation plan 111,Closed
+112,Risk,Positive impact of automation,Customer Satisfaction,Bob,3,4,High,Mitigation plan 112,In Progress
+113,Opportunity,Positive impact of automation,Regulatory,Diana,2,5,Medium,Mitigation plan 113,In Progress
+114,Risk,New market entry opportunity,Compliance,Fiona,2,3,Medium,Mitigation plan 114,In Progress
+115,Risk,Cybersecurity breach,Regulatory,Fiona,2,5,High,Mitigation plan 115,In Progress
+116,Opportunity,Supplier failure risk,Environmental,Charlie,5,1,High,Mitigation plan 116,Open
+117,Opportunity,Data loss due to hardware failure,Compliance,Alice,3,1,Medium,Mitigation plan 117,In Progress
+118,Risk,Loss of key personnel,Supply Chain,Diana,1,5,Low,Mitigation plan 118,Open
+119,Opportunity,Compliance with new regulation,Supply Chain,Bob,2,4,Low,Mitigation plan 119,Closed
+120,Opportunity,Data loss due to hardware failure,Supply Chain,Alice,4,2,High,Mitigation plan 120,Open
+121,Opportunity,Loss of key personnel,Supply Chain,Fiona,5,2,Low,Mitigation plan 121,Open
+122,Opportunity,New market entry opportunity,Supply Chain,Ethan,4,3,High,Mitigation plan 122,Closed
+123,Risk,New market entry opportunity,IT Security,Fiona,3,5,Medium,Mitigation plan 123,Closed
+124,Risk,Data loss due to hardware failure,Customer Satisfaction,Bob,3,3,High,Mitigation plan 124,In Progress
+125,Risk,Loss of key personnel,IT Security,Bob,1,3,High,Mitigation plan 125,In Progress
+126,Risk,Cybersecurity breach,Regulatory,Alice,1,4,Medium,Mitigation plan 126,In Progress
+127,Risk,Compliance with new regulation,Environmental,Bob,5,3,Medium,Mitigation plan 127,Closed
+128,Risk,Data loss due to hardware failure,IT Security,Alice,3,4,Low,Mitigation plan 128,Closed
+129,Risk,New market entry opportunity,Regulatory,Alice,4,1,Low,Mitigation plan 129,In Progress
+130,Risk,Cybersecurity breach,Supply Chain,Diana,1,4,High,Mitigation plan 130,In Progress
+131,Risk,Loss of key personnel,Supply Chain,Diana,4,3,Low,Mitigation plan 131,Open
+132,Risk,Cybersecurity breach,Customer Satisfaction,Alice,5,3,High,Mitigation plan 132,Closed
+133,Opportunity,Compliance with new regulation,Compliance,Diana,2,2,Low,Mitigation plan 133,Open
+134,Opportunity,Positive impact of automation,IT Security,Ethan,3,2,Medium,Mitigation plan 134,Open
+135,Opportunity,Positive impact of automation,Regulatory,Diana,2,5,Low,Mitigation plan 135,Open
+136,Opportunity,Supplier failure risk,IT Security,Bob,2,3,Medium,Mitigation plan 136,In Progress
+137,Opportunity,Data loss due to hardware failure,Regulatory,Alice,2,1,High,Mitigation plan 137,In Progress
+138,Risk,Loss of key personnel,IT Security,Alice,3,1,Medium,Mitigation plan 138,Open
+139,Opportunity,Supplier failure risk,Supply Chain,Fiona,2,2,Low,Mitigation plan 139,In Progress
+140,Risk,New market entry opportunity,Supply Chain,Diana,5,2,High,Mitigation plan 140,In Progress
+141,Risk,Compliance with new regulation,Supply Chain,Diana,1,5,High,Mitigation plan 141,Open
+142,Opportunity,Supplier failure risk,Regulatory,Bob,5,1,Low,Mitigation plan 142,In Progress
+143,Risk,Data loss due to hardware failure,Compliance,Diana,3,3,High,Mitigation plan 143,In Progress
+144,Opportunity,Supplier failure risk,Supply Chain,Alice,3,3,Medium,Mitigation plan 144,Open
+145,Opportunity,New market entry opportunity,Supply Chain,Ethan,1,4,High,Mitigation plan 145,Closed
+146,Opportunity,Supplier failure risk,Compliance,Bob,1,2,High,Mitigation plan 146,Closed
+147,Risk,Compliance with new regulation,Supply Chain,Charlie,2,5,Low,Mitigation plan 147,Closed
+148,Risk,Positive impact of automation,Compliance,Alice,2,1,Medium,Mitigation plan 148,In Progress
+149,Risk,Supplier failure risk,Compliance,Diana,3,2,Medium,Mitigation plan 149,In Progress
+150,Risk,Supplier failure risk,Customer Satisfaction,Charlie,5,1,High,Mitigation plan 150,Closed
+151,Opportunity,Loss of key personnel,Customer Satisfaction,Ethan,1,5,Medium,Mitigation plan 151,Open
+152,Risk,Loss of key personnel,Environmental,Bob,4,1,Low,Mitigation plan 152,Closed
+153,Risk,Loss of key personnel,Regulatory,Fiona,3,1,Medium,Mitigation plan 153,Closed
+154,Opportunity,Compliance with new regulation,IT Security,Charlie,3,5,Low,Mitigation plan 154,Closed
+155,Risk,Cybersecurity breach,Environmental,Ethan,3,2,High,Mitigation plan 155,Closed
+156,Opportunity,Loss of key personnel,Compliance,Alice,1,2,Medium,Mitigation plan 156,Open
+157,Risk,Positive impact of automation,Customer Satisfaction,Alice,4,2,Medium,Mitigation plan 157,Closed
+158,Opportunity,Positive impact of automation,Regulatory,Fiona,4,4,Medium,Mitigation plan 158,Closed
+159,Opportunity,Loss of key personnel,Compliance,Diana,1,4,Low,Mitigation plan 159,In Progress
+160,Opportunity,New market entry opportunity,Customer Satisfaction,Ethan,5,2,Low,Mitigation plan 160,Closed
+161,Risk,Positive impact of automation,IT Security,Ethan,2,5,Low,Mitigation plan 161,Open
+162,Opportunity,Compliance with new regulation,IT Security,Ethan,1,3,Medium,Mitigation plan 162,Open
+163,Risk,Positive impact of automation,Compliance,Bob,3,2,Low,Mitigation plan 163,Open
+164,Opportunity,Supplier failure risk,Regulatory,Bob,3,4,Medium,Mitigation plan 164,In Progress
+165,Risk,Positive impact of automation,Customer Satisfaction,Diana,2,1,Medium,Mitigation plan 165,Open
+166,Opportunity,Compliance with new regulation,Customer Satisfaction,Diana,5,2,Low,Mitigation plan 166,Closed
+167,Risk,Supplier failure risk,Supply Chain,Bob,4,4,Medium,Mitigation plan 167,Closed
+168,Risk,Positive impact of automation,Regulatory,Bob,2,5,Low,Mitigation plan 168,In Progress
+169,Opportunity,Loss of key personnel,Environmental,Diana,1,5,Medium,Mitigation plan 169,In Progress
+170,Opportunity,Supplier failure risk,Environmental,Fiona,4,2,Low,Mitigation plan 170,Closed
+171,Risk,New market entry opportunity,Compliance,Alice,2,3,Medium,Mitigation plan 171,In Progress
+172,Opportunity,Compliance with new regulation,Compliance,Diana,2,2,High,Mitigation plan 172,Open
+173,Risk,Cybersecurity breach,Supply Chain,Bob,3,2,Medium,Mitigation plan 173,Open
+174,Risk,Cybersecurity breach,Environmental,Fiona,5,1,Medium,Mitigation plan 174,In Progress
+175,Opportunity,Cybersecurity breach,IT Security,Bob,4,1,Medium,Mitigation plan 175,Open
+176,Opportunity,New market entry opportunity,IT Security,Diana,1,3,High,Mitigation plan 176,In Progress
+177,Opportunity,Supplier failure risk,Compliance,Fiona,3,2,Low,Mitigation plan 177,Open
+178,Opportunity,Data loss due to hardware failure,Supply Chain,Bob,3,2,Medium,Mitigation plan 178,Open
+179,Opportunity,Compliance with new regulation,Customer Satisfaction,Charlie,3,2,High,Mitigation plan 179,Open
+180,Opportunity,Positive impact of automation,Supply Chain,Charlie,4,2,Medium,Mitigation plan 180,Open
+181,Risk,Data loss due to hardware failure,Compliance,Alice,1,2,Medium,Mitigation plan 181,Open
+182,Opportunity,Loss of key personnel,Compliance,Ethan,3,4,Medium,Mitigation plan 182,Closed
+183,Risk,New market entry opportunity,IT Security,Alice,5,1,High,Mitigation plan 183,Open
+184,Risk,Compliance with new regulation,Supply Chain,Bob,2,4,High,Mitigation plan 184,Closed
+185,Risk,Cybersecurity breach,Supply Chain,Charlie,5,5,Medium,Mitigation plan 185,Closed
+186,Risk,Loss of key personnel,IT Security,Charlie,2,5,Medium,Mitigation plan 186,In Progress
+187,Opportunity,Compliance with new regulation,Environmental,Diana,5,5,High,Mitigation plan 187,Closed
+188,Opportunity,Compliance with new regulation,Supply Chain,Diana,1,2,Low,Mitigation plan 188,Closed
+189,Opportunity,Positive impact of automation,Regulatory,Bob,2,4,High,Mitigation plan 189,Open
+190,Opportunity,Positive impact of automation,Compliance,Fiona,5,1,High,Mitigation plan 190,Open
+191,Risk,Data loss due to hardware failure,Compliance,Bob,5,2,Low,Mitigation plan 191,Closed
+192,Opportunity,Supplier failure risk,Regulatory,Bob,2,5,High,Mitigation plan 192,Open
+193,Opportunity,Data loss due to hardware failure,Environmental,Diana,1,3,Medium,Mitigation plan 193,In Progress
+194,Opportunity,Cybersecurity breach,Compliance,Bob,3,3,High,Mitigation plan 194,Closed
+195,Opportunity,Data loss due to hardware failure,IT Security,Diana,5,5,Medium,Mitigation plan 195,Open
+196,Opportunity,Positive impact of automation,IT Security,Alice,5,2,Medium,Mitigation plan 196,Open
+197,Risk,Compliance with new regulation,Customer Satisfaction,Alice,4,5,Low,Mitigation plan 197,Closed
+198,Opportunity,Data loss due to hardware failure,Compliance,Diana,1,4,High,Mitigation plan 198,In Progress
+199,Risk,Supplier failure risk,Regulatory,Diana,1,1,Low,Mitigation plan 199,Closed
+200,Risk,New market entry opportunity,Regulatory,Fiona,4,1,High,Mitigation plan 200,Closed
+201,Opportunity,New market entry opportunity,Customer Satisfaction,Charlie,3,2,High,Mitigation plan 201,In Progress
+202,Opportunity,Supplier failure risk,Compliance,Bob,4,5,High,Mitigation plan 202,Closed
+203,Opportunity,Loss of key personnel,Environmental,Bob,3,5,High,Mitigation plan 203,In Progress
+204,Risk,Supplier failure risk,IT Security,Bob,3,2,Low,Mitigation plan 204,Closed
+205,Opportunity,Data loss due to hardware failure,Customer Satisfaction,Alice,1,4,Medium,Mitigation plan 205,Open
+206,Opportunity,Loss of key personnel,Regulatory,Charlie,1,1,Low,Mitigation plan 206,In Progress
+207,Opportunity,Positive impact of automation,IT Security,Ethan,3,1,High,Mitigation plan 207,Closed
+208,Risk,Compliance with new regulation,Customer Satisfaction,Fiona,3,1,Low,Mitigation plan 208,In Progress
+209,Opportunity,Positive impact of automation,Regulatory,Diana,3,1,High,Mitigation plan 209,Closed
+210,Risk,Supplier failure risk,Compliance,Alice,2,1,High,Mitigation plan 210,Closed
+211,Opportunity,Data loss due to hardware failure,Environmental,Bob,3,1,High,Mitigation plan 211,In Progress
+212,Opportunity,Cybersecurity breach,Regulatory,Alice,2,5,Low,Mitigation plan 212,Closed
+213,Risk,Data loss due to hardware failure,Supply Chain,Ethan,5,1,High,Mitigation plan 213,Closed
+214,Risk,Compliance with new regulation,Compliance,Diana,1,5,Medium,Mitigation plan 214,Closed
+215,Opportunity,Cybersecurity breach,Supply Chain,Diana,4,1,Low,Mitigation plan 215,Closed
+216,Opportunity,Supplier failure risk,Supply Chain,Bob,4,4,Medium,Mitigation plan 216,Closed
+217,Risk,Loss of key personnel,IT Security,Fiona,2,5,Low,Mitigation plan 217,In Progress
+218,Opportunity,Compliance with new regulation,Customer Satisfaction,Charlie,3,1,Low,Mitigation plan 218,In Progress
+219,Risk,Positive impact of automation,Customer Satisfaction,Alice,1,3,Medium,Mitigation plan 219,In Progress
+220,Opportunity,Loss of key personnel,Compliance,Alice,5,3,Medium,Mitigation plan 220,In Progress
+221,Risk,Cybersecurity breach,Customer Satisfaction,Fiona,2,1,Low,Mitigation plan 221,In Progress
+222,Risk,Cybersecurity breach,Supply Chain,Ethan,2,4,Low,Mitigation plan 222,Open
+223,Risk,Supplier failure risk,IT Security,Alice,3,3,High,Mitigation plan 223,Closed
+224,Opportunity,Positive impact of automation,Environmental,Fiona,5,4,High,Mitigation plan 224,In Progress
+225,Risk,Cybersecurity breach,Supply Chain,Diana,4,5,Medium,Mitigation plan 225,In Progress
+226,Risk,Compliance with new regulation,Environmental,Diana,3,1,Low,Mitigation plan 226,Open
+227,Risk,Loss of key personnel,Customer Satisfaction,Charlie,5,4,High,Mitigation plan 227,Closed
+228,Opportunity,Cybersecurity breach,Supply Chain,Fiona,4,4,Medium,Mitigation plan 228,Closed
+229,Risk,Data loss due to hardware failure,Environmental,Alice,5,5,High,Mitigation plan 229,Open
+230,Opportunity,New market entry opportunity,Supply Chain,Ethan,5,5,Medium,Mitigation plan 230,In Progress
+231,Risk,New market entry opportunity,Compliance,Ethan,2,3,High,Mitigation plan 231,Closed
+232,Risk,Positive impact of automation,Compliance,Charlie,4,5,Low,Mitigation plan 232,Closed
+233,Opportunity,Loss of key personnel,Environmental,Alice,5,1,Low,Mitigation plan 233,In Progress
+234,Risk,Positive impact of automation,IT Security,Diana,3,2,High,Mitigation plan 234,Open
+235,Risk,New market entry opportunity,Customer Satisfaction,Diana,4,5,Low,Mitigation plan 235,Open
+236,Risk,Supplier failure risk,Regulatory,Ethan,1,4,Low,Mitigation plan 236,Closed
+237,Risk,Positive impact of automation,Environmental,Ethan,2,5,High,Mitigation plan 237,Open
+238,Risk,Loss of key personnel,Customer Satisfaction,Fiona,1,3,High,Mitigation plan 238,In Progress
+239,Opportunity,Loss of key personnel,Customer Satisfaction,Charlie,4,5,Low,Mitigation plan 239,Closed
+240,Risk,Cybersecurity breach,Customer Satisfaction,Charlie,1,3,Medium,Mitigation plan 240,Open
+241,Opportunity,Cybersecurity breach,Regulatory,Fiona,3,1,Medium,Mitigation plan 241,Open
+242,Opportunity,Supplier failure risk,Regulatory,Charlie,5,2,Low,Mitigation plan 242,Closed
+243,Risk,Supplier failure risk,IT Security,Charlie,1,3,Low,Mitigation plan 243,In Progress
+244,Risk,Compliance with new regulation,Supply Chain,Bob,4,2,High,Mitigation plan 244,Open
+245,Risk,Data loss due to hardware failure,IT Security,Diana,1,4,High,Mitigation plan 245,In Progress
+246,Risk,Supplier failure risk,Compliance,Diana,4,5,Low,Mitigation plan 246,Closed
+247,Opportunity,Cybersecurity breach,Regulatory,Ethan,2,1,Low,Mitigation plan 247,Open
+248,Opportunity,Cybersecurity breach,Regulatory,Bob,1,3,High,Mitigation plan 248,In Progress
+249,Risk,Supplier failure risk,Environmental,Ethan,4,1,Medium,Mitigation plan 249,In Progress
+250,Opportunity,Supplier failure risk,IT Security,Fiona,5,1,Medium,Mitigation plan 250,Closed
+251,Opportunity,Positive impact of automation,Regulatory,Fiona,1,3,High,Mitigation plan 251,Closed
+252,Risk,Data loss due to hardware failure,Customer Satisfaction,Diana,1,1,Low,Mitigation plan 252,Open
+253,Opportunity,Compliance with new regulation,Environmental,Ethan,3,1,Low,Mitigation plan 253,Closed
+254,Opportunity,Cybersecurity breach,Compliance,Fiona,5,2,Medium,Mitigation plan 254,In Progress
+255,Risk,Supplier failure risk,Supply Chain,Bob,2,2,High,Mitigation plan 255,In Progress
+256,Opportunity,Supplier failure risk,Compliance,Bob,4,1,High,Mitigation plan 256,In Progress
+257,Opportunity,Supplier failure risk,Compliance,Charlie,5,4,High,Mitigation plan 257,Closed
+258,Opportunity,Compliance with new regulation,IT Security,Fiona,2,4,Medium,Mitigation plan 258,In Progress
+259,Risk,Cybersecurity breach,Compliance,Bob,5,4,Low,Mitigation plan 259,Open
+260,Risk,Data loss due to hardware failure,Compliance,Bob,5,1,Medium,Mitigation plan 260,Open
+261,Opportunity,Compliance with new regulation,Compliance,Fiona,3,5,High,Mitigation plan 261,In Progress
+262,Opportunity,Loss of key personnel,Environmental,Fiona,3,5,Medium,Mitigation plan 262,In Progress
+263,Opportunity,Positive impact of automation,Environmental,Charlie,4,5,Low,Mitigation plan 263,In Progress
+264,Risk,Data loss due to hardware failure,Customer Satisfaction,Bob,2,4,High,Mitigation plan 264,Open
+265,Risk,Data loss due to hardware failure,Supply Chain,Fiona,2,4,High,Mitigation plan 265,Closed
+266,Opportunity,Supplier failure risk,Compliance,Ethan,2,4,Medium,Mitigation plan 266,Closed
+267,Opportunity,Positive impact of automation,IT Security,Bob,2,5,Medium,Mitigation plan 267,In Progress
+268,Risk,Loss of key personnel,Customer Satisfaction,Ethan,1,3,High,Mitigation plan 268,Closed
+269,Risk,Cybersecurity breach,Regulatory,Fiona,1,1,High,Mitigation plan 269,Open
+270,Opportunity,Positive impact of automation,Environmental,Fiona,5,3,Medium,Mitigation plan 270,In Progress
+271,Opportunity,Positive impact of automation,Environmental,Alice,4,1,Low,Mitigation plan 271,Closed
+272,Risk,Loss of key personnel,Supply Chain,Alice,3,3,Medium,Mitigation plan 272,Closed
+273,Risk,Compliance with new regulation,Regulatory,Charlie,4,2,Medium,Mitigation plan 273,Closed
+274,Risk,Cybersecurity breach,Supply Chain,Ethan,1,2,High,Mitigation plan 274,Open
+275,Risk,Loss of key personnel,Environmental,Diana,2,4,Medium,Mitigation plan 275,Closed
+276,Risk,New market entry opportunity,Compliance,Fiona,5,2,Low,Mitigation plan 276,In Progress
+277,Risk,Compliance with new regulation,Regulatory,Bob,4,5,High,Mitigation plan 277,Open
+278,Opportunity,New market entry opportunity,Compliance,Bob,3,5,High,Mitigation plan 278,In Progress
+279,Risk,Supplier failure risk,Supply Chain,Alice,3,1,High,Mitigation plan 279,Closed
+280,Risk,Compliance with new regulation,Regulatory,Charlie,2,1,High,Mitigation plan 280,Open
+281,Opportunity,Supplier failure risk,Customer Satisfaction,Bob,5,5,Medium,Mitigation plan 281,Open
+282,Risk,Supplier failure risk,IT Security,Fiona,4,4,High,Mitigation plan 282,Open
+283,Opportunity,Loss of key personnel,Environmental,Charlie,4,2,Medium,Mitigation plan 283,Open
+284,Risk,Supplier failure risk,Environmental,Charlie,5,5,Low,Mitigation plan 284,Closed
+285,Risk,Loss of key personnel,Supply Chain,Charlie,1,4,Medium,Mitigation plan 285,Open
+286,Opportunity,Positive impact of automation,IT Security,Bob,4,2,Medium,Mitigation plan 286,Open
+287,Risk,New market entry opportunity,Environmental,Bob,3,5,Low,Mitigation plan 287,Closed
+288,Opportunity,New market entry opportunity,Environmental,Ethan,1,1,Low,Mitigation plan 288,Open
+289,Risk,Cybersecurity breach,Customer Satisfaction,Charlie,3,3,High,Mitigation plan 289,Open
+290,Opportunity,Data loss due to hardware failure,Customer Satisfaction,Diana,1,3,Low,Mitigation plan 290,In Progress
+291,Risk,Positive impact of automation,Regulatory,Alice,2,5,High,Mitigation plan 291,Open
+292,Risk,Loss of key personnel,Environmental,Diana,2,3,High,Mitigation plan 292,Open
+293,Opportunity,Supplier failure risk,Customer Satisfaction,Fiona,5,2,Medium,Mitigation plan 293,In Progress
+294,Opportunity,Cybersecurity breach,Customer Satisfaction,Ethan,5,2,High,Mitigation plan 294,In Progress
+295,Opportunity,Positive impact of automation,Regulatory,Fiona,2,2,Medium,Mitigation plan 295,Closed
+296,Opportunity,New market entry opportunity,Customer Satisfaction,Ethan,3,3,High,Mitigation plan 296,In Progress
+297,Risk,Cybersecurity breach,IT Security,Fiona,4,1,Low,Mitigation plan 297,Closed
+298,Opportunity,Compliance with new regulation,Regulatory,Ethan,5,1,High,Mitigation plan 298,Open
+299,Opportunity,Data loss due to hardware failure,Supply Chain,Bob,4,2,Medium,Mitigation plan 299,Closed
+300,Risk,Supplier failure risk,IT Security,Charlie,2,1,High,Mitigation plan 300,Closed
+301,Risk,Positive impact of automation,Environmental,Charlie,5,1,Medium,Mitigation plan 301,In Progress
+302,Risk,Supplier failure risk,Supply Chain,Ethan,1,2,High,Mitigation plan 302,Closed
+303,Opportunity,New market entry opportunity,Supply Chain,Alice,3,1,Low,Mitigation plan 303,Open
+304,Opportunity,Data loss due to hardware failure,Supply Chain,Charlie,4,3,High,Mitigation plan 304,In Progress
+305,Risk,Data loss due to hardware failure,Environmental,Ethan,5,1,Medium,Mitigation plan 305,Open
+306,Risk,Compliance with new regulation,Customer Satisfaction,Charlie,3,5,Medium,Mitigation plan 306,In Progress
+307,Opportunity,Positive impact of automation,IT Security,Ethan,2,3,High,Mitigation plan 307,Open
+308,Opportunity,Positive impact of automation,IT Security,Charlie,4,3,High,Mitigation plan 308,In Progress
+309,Risk,Data loss due to hardware failure,Regulatory,Ethan,2,4,Medium,Mitigation plan 309,Closed
+310,Opportunity,Data loss due to hardware failure,Compliance,Ethan,4,4,Low,Mitigation plan 310,Closed
+311,Opportunity,New market entry opportunity,Regulatory,Bob,1,2,High,Mitigation plan 311,Open
+312,Risk,Compliance with new regulation,Compliance,Charlie,2,2,High,Mitigation plan 312,In Progress
+313,Opportunity,Supplier failure risk,Environmental,Ethan,4,3,Medium,Mitigation plan 313,Open
+314,Opportunity,Loss of key personnel,Supply Chain,Alice,5,2,Medium,Mitigation plan 314,Open
+315,Opportunity,Supplier failure risk,Regulatory,Charlie,4,3,High,Mitigation plan 315,Open
+316,Risk,Compliance with new regulation,Regulatory,Alice,3,2,High,Mitigation plan 316,Closed
+317,Opportunity,Positive impact of automation,Compliance,Fiona,5,1,High,Mitigation plan 317,In Progress
+318,Opportunity,Supplier failure risk,Customer Satisfaction,Fiona,3,4,Medium,Mitigation plan 318,Open
+319,Risk,New market entry opportunity,Customer Satisfaction,Bob,5,1,High,Mitigation plan 319,In Progress
+320,Opportunity,Positive impact of automation,Customer Satisfaction,Fiona,2,1,Low,Mitigation plan 320,Closed
+321,Opportunity,New market entry opportunity,Customer Satisfaction,Ethan,5,3,High,Mitigation plan 321,Open
+322,Opportunity,Compliance with new regulation,Supply Chain,Charlie,4,2,Medium,Mitigation plan 322,Open
+323,Risk,Supplier failure risk,Supply Chain,Alice,5,5,Low,Mitigation plan 323,Open
+324,Risk,New market entry opportunity,IT Security,Alice,4,2,Medium,Mitigation plan 324,Open
+325,Risk,Loss of key personnel,Environmental,Bob,2,4,Low,Mitigation plan 325,In Progress
+326,Risk,New market entry opportunity,Customer Satisfaction,Alice,4,2,Low,Mitigation plan 326,In Progress
+327,Risk,Positive impact of automation,Environmental,Fiona,5,3,Medium,Mitigation plan 327,Open
+328,Risk,Compliance with new regulation,Compliance,Charlie,4,3,Low,Mitigation plan 328,Closed
+329,Risk,Compliance with new regulation,IT Security,Diana,2,3,Low,Mitigation plan 329,In Progress
+330,Opportunity,Positive impact of automation,IT Security,Fiona,1,4,Medium,Mitigation plan 330,Closed
+331,Opportunity,New market entry opportunity,IT Security,Fiona,1,1,Low,Mitigation plan 331,Closed
+332,Risk,Data loss due to hardware failure,Supply Chain,Ethan,3,3,Low,Mitigation plan 332,Open
+333,Risk,Loss of key personnel,IT Security,Alice,1,1,Medium,Mitigation plan 333,Closed
+334,Opportunity,Positive impact of automation,Supply Chain,Alice,4,5,Medium,Mitigation plan 334,Open
+335,Risk,Cybersecurity breach,Regulatory,Alice,1,3,High,Mitigation plan 335,Open
+336,Opportunity,Cybersecurity breach,Regulatory,Bob,4,4,Low,Mitigation plan 336,Closed
+337,Opportunity,Compliance with new regulation,IT Security,Alice,3,2,Low,Mitigation plan 337,Open
+338,Risk,Data loss due to hardware failure,Environmental,Ethan,4,2,High,Mitigation plan 338,In Progress
+339,Risk,Positive impact of automation,Compliance,Alice,5,4,High,Mitigation plan 339,Closed
+340,Risk,Positive impact of automation,Environmental,Ethan,3,2,Medium,Mitigation plan 340,Closed
+341,Opportunity,New market entry opportunity,Environmental,Diana,2,5,High,Mitigation plan 341,In Progress
+342,Opportunity,Supplier failure risk,IT Security,Ethan,3,4,Medium,Mitigation plan 342,Closed
+343,Opportunity,Positive impact of automation,Environmental,Fiona,5,1,High,Mitigation plan 343,Closed
+344,Opportunity,Compliance with new regulation,Environmental,Bob,3,4,High,Mitigation plan 344,Closed
+345,Risk,Positive impact of automation,Supply Chain,Alice,2,1,High,Mitigation plan 345,In Progress
+346,Risk,Compliance with new regulation,Regulatory,Diana,4,2,Low,Mitigation plan 346,Open
+347,Opportunity,Supplier failure risk,Compliance,Alice,5,4,Medium,Mitigation plan 347,Open
+348,Opportunity,Positive impact of automation,IT Security,Bob,5,3,Low,Mitigation plan 348,In Progress
+349,Opportunity,Data loss due to hardware failure,Environmental,Fiona,1,3,Low,Mitigation plan 349,Open
+350,Opportunity,New market entry opportunity,Regulatory,Bob,4,4,Low,Mitigation plan 350,In Progress
+351,Risk,Positive impact of automation,Compliance,Bob,3,1,Medium,Mitigation plan 351,Open
+352,Risk,Data loss due to hardware failure,Compliance,Diana,4,4,High,Mitigation plan 352,Open
+353,Risk,Compliance with new regulation,Supply Chain,Fiona,4,4,High,Mitigation plan 353,Open
+354,Opportunity,Supplier failure risk,Customer Satisfaction,Diana,2,3,High,Mitigation plan 354,Closed
+355,Opportunity,Data loss due to hardware failure,Environmental,Fiona,1,2,Low,Mitigation plan 355,Closed
+356,Risk,Positive impact of automation,Customer Satisfaction,Bob,1,2,Low,Mitigation plan 356,Open
+357,Opportunity,Data loss due to hardware failure,Compliance,Alice,4,1,Medium,Mitigation plan 357,Open
+358,Risk,Positive impact of automation,Compliance,Diana,2,1,Medium,Mitigation plan 358,Closed
+359,Opportunity,Supplier failure risk,Environmental,Ethan,1,4,Low,Mitigation plan 359,In Progress
+360,Opportunity,Compliance with new regulation,Environmental,Diana,2,4,Medium,Mitigation plan 360,In Progress
+361,Opportunity,Data loss due to hardware failure,Customer Satisfaction,Ethan,3,3,Medium,Mitigation plan 361,Open
+362,Risk,Supplier failure risk,Compliance,Alice,5,1,Medium,Mitigation plan 362,Open
+363,Risk,Compliance with new regulation,IT Security,Diana,3,2,Medium,Mitigation plan 363,Open
+364,Opportunity,Compliance with new regulation,Customer Satisfaction,Ethan,3,4,High,Mitigation plan 364,Open
+365,Opportunity,Loss of key personnel,IT Security,Fiona,2,3,Medium,Mitigation plan 365,Open
+366,Risk,Loss of key personnel,Environmental,Fiona,1,2,High,Mitigation plan 366,In Progress
+367,Risk,Positive impact of automation,Regulatory,Bob,1,1,High,Mitigation plan 367,Open
+368,Opportunity,Supplier failure risk,Compliance,Bob,3,4,Medium,Mitigation plan 368,In Progress
+369,Risk,Cybersecurity breach,Customer Satisfaction,Fiona,1,2,Low,Mitigation plan 369,Closed
+370,Risk,Supplier failure risk,Compliance,Fiona,3,4,High,Mitigation plan 370,In Progress
+371,Opportunity,Data loss due to hardware failure,Compliance,Alice,2,1,Medium,Mitigation plan 371,Closed
+372,Risk,Compliance with new regulation,Customer Satisfaction,Fiona,1,5,Medium,Mitigation plan 372,In Progress
+373,Risk,Cybersecurity breach,IT Security,Bob,2,5,Medium,Mitigation plan 373,In Progress
+374,Risk,Supplier failure risk,Regulatory,Bob,4,2,Medium,Mitigation plan 374,In Progress
+375,Opportunity,New market entry opportunity,Customer Satisfaction,Ethan,4,1,Medium,Mitigation plan 375,In Progress
+376,Risk,New market entry opportunity,Supply Chain,Diana,3,1,Low,Mitigation plan 376,Closed
+377,Opportunity,Loss of key personnel,Compliance,Alice,4,1,High,Mitigation plan 377,In Progress
+378,Opportunity,Compliance with new regulation,Environmental,Diana,3,1,Low,Mitigation plan 378,Closed
+379,Opportunity,Compliance with new regulation,Regulatory,Alice,3,3,Medium,Mitigation plan 379,Open
+380,Risk,Compliance with new regulation,Supply Chain,Alice,4,1,High,Mitigation plan 380,In Progress
+381,Opportunity,Compliance with new regulation,Supply Chain,Fiona,1,5,Medium,Mitigation plan 381,Closed
+382,Opportunity,Loss of key personnel,Customer Satisfaction,Bob,3,4,Low,Mitigation plan 382,Closed
+383,Risk,Cybersecurity breach,Environmental,Alice,3,1,Medium,Mitigation plan 383,In Progress
+384,Risk,New market entry opportunity,Customer Satisfaction,Charlie,4,1,High,Mitigation plan 384,In Progress
+385,Risk,Supplier failure risk,Customer Satisfaction,Fiona,5,4,Medium,Mitigation plan 385,In Progress
+386,Opportunity,New market entry opportunity,Compliance,Alice,3,3,Low,Mitigation plan 386,Open
+387,Opportunity,Cybersecurity breach,Customer Satisfaction,Charlie,1,4,High,Mitigation plan 387,Closed
+388,Opportunity,Compliance with new regulation,Supply Chain,Alice,4,4,Low,Mitigation plan 388,Closed
+389,Risk,Supplier failure risk,Customer Satisfaction,Charlie,4,5,High,Mitigation plan 389,Closed
+390,Opportunity,Cybersecurity breach,Environmental,Bob,5,5,Low,Mitigation plan 390,In Progress
+391,Opportunity,Data loss due to hardware failure,Compliance,Bob,4,3,High,Mitigation plan 391,Open
+392,Opportunity,Loss of key personnel,Environmental,Ethan,1,5,High,Mitigation plan 392,Open
+393,Opportunity,New market entry opportunity,IT Security,Alice,5,2,Medium,Mitigation plan 393,In Progress
+394,Risk,Compliance with new regulation,Compliance,Alice,3,3,High,Mitigation plan 394,Open
+395,Opportunity,Cybersecurity breach,Customer Satisfaction,Diana,1,5,Medium,Mitigation plan 395,In Progress
+396,Risk,Loss of key personnel,Customer Satisfaction,Diana,3,4,Medium,Mitigation plan 396,In Progress
+397,Opportunity,Supplier failure risk,Compliance,Ethan,4,1,High,Mitigation plan 397,Closed
+398,Opportunity,Compliance with new regulation,Supply Chain,Diana,3,2,Medium,Mitigation plan 398,In Progress
+399,Risk,Loss of key personnel,Compliance,Fiona,3,5,High,Mitigation plan 399,Open
+400,Risk,Loss of key personnel,Environmental,Bob,1,5,High,Mitigation plan 400,Open
+401,Risk,Data loss due to hardware failure,Environmental,Bob,1,5,Low,Mitigation plan 401,Closed
+402,Opportunity,Loss of key personnel,Customer Satisfaction,Ethan,1,5,Medium,Mitigation plan 402,In Progress
+403,Opportunity,Positive impact of automation,IT Security,Fiona,4,1,Medium,Mitigation plan 403,Closed
+404,Opportunity,Cybersecurity breach,Customer Satisfaction,Bob,4,3,Low,Mitigation plan 404,In Progress
+405,Risk,Data loss due to hardware failure,Customer Satisfaction,Diana,2,1,Low,Mitigation plan 405,Open
+406,Opportunity,New market entry opportunity,IT Security,Alice,4,3,Medium,Mitigation plan 406,Open
+407,Risk,Positive impact of automation,IT Security,Fiona,3,4,Medium,Mitigation plan 407,In Progress
+408,Opportunity,New market entry opportunity,Environmental,Diana,1,1,High,Mitigation plan 408,Closed
+409,Opportunity,Data loss due to hardware failure,Environmental,Diana,1,5,High,Mitigation plan 409,Open
+410,Opportunity,Positive impact of automation,Regulatory,Ethan,3,5,High,Mitigation plan 410,In Progress
+411,Opportunity,Compliance with new regulation,Compliance,Fiona,4,2,Medium,Mitigation plan 411,In Progress
+412,Opportunity,Cybersecurity breach,Compliance,Fiona,2,3,Low,Mitigation plan 412,Closed
+413,Opportunity,New market entry opportunity,Supply Chain,Fiona,5,2,Medium,Mitigation plan 413,Closed
+414,Opportunity,Cybersecurity breach,Regulatory,Charlie,2,1,High,Mitigation plan 414,In Progress
+415,Risk,Positive impact of automation,Compliance,Diana,4,5,Low,Mitigation plan 415,Closed
+416,Risk,Data loss due to hardware failure,Regulatory,Alice,4,5,Low,Mitigation plan 416,In Progress
+417,Risk,Loss of key personnel,Environmental,Fiona,5,1,High,Mitigation plan 417,Closed
+418,Opportunity,Data loss due to hardware failure,Regulatory,Bob,3,3,Medium,Mitigation plan 418,Open
+419,Risk,Compliance with new regulation,Customer Satisfaction,Alice,3,1,Low,Mitigation plan 419,Open
+420,Opportunity,New market entry opportunity,Regulatory,Alice,3,5,Medium,Mitigation plan 420,Open
+421,Risk,New market entry opportunity,Customer Satisfaction,Ethan,4,3,Low,Mitigation plan 421,Open
+422,Opportunity,Loss of key personnel,Customer Satisfaction,Ethan,3,2,Low,Mitigation plan 422,Open
+423,Risk,Positive impact of automation,IT Security,Diana,5,5,Medium,Mitigation plan 423,Closed
+424,Opportunity,Loss of key personnel,IT Security,Fiona,1,2,Low,Mitigation plan 424,Closed
+425,Opportunity,New market entry opportunity,Customer Satisfaction,Fiona,5,3,Medium,Mitigation plan 425,In Progress
+426,Opportunity,Positive impact of automation,Environmental,Bob,1,4,Medium,Mitigation plan 426,Closed
+427,Risk,Cybersecurity breach,Regulatory,Charlie,3,2,Medium,Mitigation plan 427,In Progress
+428,Risk,Data loss due to hardware failure,Supply Chain,Alice,1,1,High,Mitigation plan 428,In Progress
+429,Risk,New market entry opportunity,Environmental,Charlie,3,2,High,Mitigation plan 429,Closed
+430,Risk,Positive impact of automation,Environmental,Fiona,5,3,High,Mitigation plan 430,Open
+431,Risk,Compliance with new regulation,Environmental,Diana,5,1,High,Mitigation plan 431,Open
+432,Opportunity,Data loss due to hardware failure,Supply Chain,Diana,3,1,High,Mitigation plan 432,Open
+433,Opportunity,Data loss due to hardware failure,Compliance,Bob,5,1,Medium,Mitigation plan 433,Open
+434,Opportunity,Positive impact of automation,Supply Chain,Diana,3,3,Low,Mitigation plan 434,In Progress
+435,Opportunity,Loss of key personnel,Customer Satisfaction,Fiona,1,2,Medium,Mitigation plan 435,Open
+436,Risk,New market entry opportunity,Compliance,Fiona,4,1,Medium,Mitigation plan 436,In Progress
+437,Opportunity,Loss of key personnel,IT Security,Ethan,4,2,High,Mitigation plan 437,Open
+438,Opportunity,Compliance with new regulation,Customer Satisfaction,Charlie,5,2,Medium,Mitigation plan 438,Open
+439,Risk,New market entry opportunity,IT Security,Bob,5,2,Low,Mitigation plan 439,Open
+440,Risk,Positive impact of automation,Customer Satisfaction,Alice,1,3,Medium,Mitigation plan 440,Closed
+441,Opportunity,Positive impact of automation,Supply Chain,Diana,4,4,Low,Mitigation plan 441,In Progress
+442,Opportunity,Loss of key personnel,Supply Chain,Ethan,4,5,Medium,Mitigation plan 442,Open
+443,Risk,New market entry opportunity,Environmental,Charlie,1,5,High,Mitigation plan 443,Open
+444,Risk,Data loss due to hardware failure,IT Security,Ethan,4,1,High,Mitigation plan 444,Open
+445,Risk,Compliance with new regulation,IT Security,Ethan,5,4,Low,Mitigation plan 445,Open
+446,Risk,Cybersecurity breach,Regulatory,Bob,5,2,High,Mitigation plan 446,In Progress
+447,Risk,Loss of key personnel,Supply Chain,Diana,5,2,Medium,Mitigation plan 447,Closed
+448,Opportunity,New market entry opportunity,Customer Satisfaction,Fiona,3,5,High,Mitigation plan 448,Closed
+449,Opportunity,Supplier failure risk,Environmental,Ethan,5,4,High,Mitigation plan 449,Open
+450,Risk,Positive impact of automation,Compliance,Bob,4,3,Low,Mitigation plan 450,Closed
+451,Opportunity,Loss of key personnel,Compliance,Diana,4,4,Low,Mitigation plan 451,Open
+452,Risk,Data loss due to hardware failure,Regulatory,Bob,1,1,Medium,Mitigation plan 452,Open
+453,Opportunity,New market entry opportunity,Customer Satisfaction,Charlie,1,2,Medium,Mitigation plan 453,In Progress
+454,Opportunity,Positive impact of automation,Environmental,Diana,4,4,Medium,Mitigation plan 454,Closed
+455,Risk,Supplier failure risk,Environmental,Alice,5,3,High,Mitigation plan 455,Open
+456,Risk,Positive impact of automation,Compliance,Alice,5,5,Low,Mitigation plan 456,Open
+457,Risk,New market entry opportunity,Compliance,Bob,1,3,High,Mitigation plan 457,In Progress
+458,Opportunity,Supplier failure risk,Supply Chain,Bob,3,3,High,Mitigation plan 458,Closed
+459,Risk,Cybersecurity breach,Environmental,Bob,4,3,High,Mitigation plan 459,Open
+460,Risk,Compliance with new regulation,Regulatory,Ethan,3,2,High,Mitigation plan 460,In Progress
+461,Risk,New market entry opportunity,IT Security,Bob,5,5,Low,Mitigation plan 461,Open
+462,Risk,Loss of key personnel,Environmental,Charlie,3,3,High,Mitigation plan 462,In Progress
+463,Opportunity,Loss of key personnel,IT Security,Diana,3,5,High,Mitigation plan 463,In Progress
+464,Opportunity,Data loss due to hardware failure,Environmental,Fiona,1,2,Low,Mitigation plan 464,Closed
+465,Risk,Loss of key personnel,Regulatory,Fiona,3,3,Low,Mitigation plan 465,Closed
+466,Opportunity,Loss of key personnel,Compliance,Ethan,4,4,Medium,Mitigation plan 466,Open
+467,Risk,Data loss due to hardware failure,Regulatory,Bob,5,4,Low,Mitigation plan 467,In Progress
+468,Opportunity,Supplier failure risk,Regulatory,Alice,5,3,High,Mitigation plan 468,In Progress
+469,Risk,Compliance with new regulation,IT Security,Charlie,2,5,Low,Mitigation plan 469,Open
+470,Risk,Supplier failure risk,Customer Satisfaction,Alice,5,2,High,Mitigation plan 470,In Progress
+471,Opportunity,Supplier failure risk,IT Security,Alice,5,5,High,Mitigation plan 471,Closed
+472,Opportunity,Loss of key personnel,Customer Satisfaction,Alice,4,5,Low,Mitigation plan 472,In Progress
+473,Opportunity,Compliance with new regulation,Regulatory,Fiona,1,5,Medium,Mitigation plan 473,In Progress
+474,Opportunity,Supplier failure risk,Regulatory,Bob,5,2,Medium,Mitigation plan 474,Open
+475,Risk,Compliance with new regulation,Supply Chain,Bob,2,1,Medium,Mitigation plan 475,Closed
+476,Risk,Positive impact of automation,Compliance,Charlie,1,4,High,Mitigation plan 476,In Progress
+477,Opportunity,Positive impact of automation,Environmental,Ethan,5,4,Low,Mitigation plan 477,Open
+478,Opportunity,Compliance with new regulation,Supply Chain,Charlie,2,2,High,Mitigation plan 478,In Progress
+479,Risk,Loss of key personnel,IT Security,Charlie,2,3,Medium,Mitigation plan 479,In Progress
+480,Risk,Data loss due to hardware failure,IT Security,Diana,3,1,Low,Mitigation plan 480,In Progress
+481,Opportunity,Positive impact of automation,Customer Satisfaction,Charlie,1,5,Medium,Mitigation plan 481,Open
+482,Risk,Cybersecurity breach,Regulatory,Fiona,4,3,Low,Mitigation plan 482,Open
+483,Risk,Supplier failure risk,IT Security,Ethan,4,3,High,Mitigation plan 483,In Progress
+484,Risk,Positive impact of automation,IT Security,Ethan,2,1,Low,Mitigation plan 484,Closed
+485,Risk,New market entry opportunity,Regulatory,Diana,2,4,High,Mitigation plan 485,Open
+486,Risk,New market entry opportunity,Regulatory,Bob,3,3,High,Mitigation plan 486,Open
+487,Opportunity,Loss of key personnel,Environmental,Charlie,1,4,Low,Mitigation plan 487,Open
+488,Risk,Supplier failure risk,IT Security,Fiona,3,2,Medium,Mitigation plan 488,Open
+489,Risk,Compliance with new regulation,Regulatory,Charlie,1,4,Low,Mitigation plan 489,Open
+490,Opportunity,Loss of key personnel,Customer Satisfaction,Bob,2,1,Medium,Mitigation plan 490,Open
+491,Opportunity,Supplier failure risk,Supply Chain,Ethan,4,5,Low,Mitigation plan 491,Closed
+492,Opportunity,Supplier failure risk,Customer Satisfaction,Charlie,3,3,Low,Mitigation plan 492,In Progress
+493,Risk,Positive impact of automation,Compliance,Ethan,1,3,Medium,Mitigation plan 493,In Progress
+494,Risk,New market entry opportunity,Customer Satisfaction,Fiona,3,3,High,Mitigation plan 494,Open
+495,Risk,Cybersecurity breach,Regulatory,Alice,3,4,Medium,Mitigation plan 495,In Progress
+496,Opportunity,Positive impact of automation,Compliance,Bob,1,4,Low,Mitigation plan 496,Closed
+497,Opportunity,Cybersecurity breach,Customer Satisfaction,Bob,5,1,Low,Mitigation plan 497,In Progress
+498,Opportunity,Cybersecurity breach,Regulatory,Fiona,5,3,Low,Mitigation plan 498,Closed
+499,Opportunity,New market entry opportunity,Customer Satisfaction,Alice,3,5,High,Mitigation plan 499,Closed
+500,Opportunity,Cybersecurity breach,Customer Satisfaction,Ethan,2,5,Low,Mitigation plan 500,In Progress
